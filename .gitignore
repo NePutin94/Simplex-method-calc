@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+.idea/
+cmake-build-debug/
+cmake-build-release/
+googletest-master/
+SFML-2.5.1-GCC/
+imgui-1.84.2/
