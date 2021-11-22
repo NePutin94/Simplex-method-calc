@@ -1,0 +1,2 @@
+# Simplex method calc
+ 
